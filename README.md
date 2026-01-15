@@ -1,4 +1,4 @@
-# Building RAG Chatbots for Technical Documentation
+# CarManual_RAG_Assistant
 
 A proof-of-concept implementation of a Retrieval Augmented Generation (RAG) chatbot designed to provide context-aware answers about car warning messages from technical manuals.
 
